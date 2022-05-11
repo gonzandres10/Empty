@@ -84,3 +84,12 @@ p{
 .listas{
     margin: 0 1%;
 }
+.menu{
+    font-family: sarah script;
+    font-size: 2rem;
+    color: white;
+    text-decoration: underline;
+}
+.menuli{
+    padding: 1rem;
+}
